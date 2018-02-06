@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 
 
 # Import data
-path = '/home/anto/python/football/FootballData/'
+path = '<file path>'
 files = [
     str(path+'9394E0.csv'),
     str(path+'9495E0.csv'),
